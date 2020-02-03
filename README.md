@@ -1,5 +1,5 @@
 # sequenceSniffer
-# authored by https://github.com/alrutten 
+authored by https://github.com/alrutten 
 
 flags members of sequences of at least the specified length that appear at least twice in the specified data columns.
 
